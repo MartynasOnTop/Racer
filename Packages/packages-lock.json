@@ -33,7 +33,7 @@
         "com.unity.formats.fbx": "4.2.1",
         "com.unity.formats.alembic": "2.3.2",
         "com.unity.cinemachine": "2.9.5",
-        "com.unity.recorder": "4.0.2"
+        "com.unity.recorder": "4.0.1"
       }
     },
     "com.unity.formats.alembic": {
@@ -67,7 +67,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.recorder": {
-      "version": "4.0.2",
+      "version": "4.0.1",
       "depth": 1,
       "source": "registry",
       "dependencies": {
